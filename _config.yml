@@ -1,0 +1,23 @@
+name: manuele
+favicon: null
+layout_spectrum: 0.4543864890001714
+typography_spectrum: 0.6838176113087684
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7691236187238246
+  lightness: 0.9993425910361111
+  saturation: 0.49918369948863983
+  rhythmicContrast: 0.4265660603996366
+purpose: []
